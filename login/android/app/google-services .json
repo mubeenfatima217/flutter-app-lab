@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383763145288",
+    "project_id": "farmfusion-exchange",
+    "storage_bucket": "farmfusion-exchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383763145288:android:85ba2ba1e86fae5ee82e7d",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY46PTsbKQJUw2pwJEUTyVbjJCovFsiOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
